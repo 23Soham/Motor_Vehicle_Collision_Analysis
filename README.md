@@ -64,10 +64,10 @@ The final warehouse enables stakeholders to analyze:
 
 ---
 
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/d40da649-fd18-4edd-8405-ea1c84cf567f" />
+<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/d40da649-fd18-4edd-8405-ea1c84cf567f" />
 
 
-<img width="452" height="293" alt="image" src="https://github.com/user-attachments/assets/91696912-a370-46a6-af55-7c49e0f2a67f" />
+<img width="1400" height="1000" alt="image" src="https://github.com/user-attachments/assets/91696912-a370-46a6-af55-7c49e0f2a67f" />
 
 
 ## ⚙️ Tech Stack  
