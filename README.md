@@ -39,7 +39,7 @@ The final warehouse enables stakeholders to analyze:
 
 ### 🗃️ Dimensional Modeling  
 
-<img width="452" height="251" alt="image" src="https://github.com/user-attachments/assets/712f2a31-2650-4532-a4b8-66ae80fbb08c" />
+<img width="1400" height="900" alt="image" src="https://github.com/user-attachments/assets/712f2a31-2650-4532-a4b8-66ae80fbb08c" />
 
 
 **Dimensions**  
